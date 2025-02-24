@@ -2,6 +2,8 @@
 
 Welcome to **Ligo** — an innovative platform designed to bring people together through the universal language of music.
 
+![ligo](https://github.com/user-attachments/assets/bf398926-9b9d-4121-9d94-11f47c8aa52b)
+
 ## Our Mission
 
 At **Ligo**, we believe that music has the power to connect people in ways that words sometimes cannot. Our goal is to help individuals discover others with similar music tastes, whether it’s through shared love for a popular artist or an obscure gem that only a few people truly appreciate.
