@@ -5,7 +5,7 @@ Welcome to **Ligo** — an innovative platform designed to bring people together
 
 <img src="https://github.com/user-attachments/assets/bf398926-9b9d-4121-9d94-11f47c8aa52b" width="900" height="700" />
 
-## Our Mission
+## Our Goal
 
 At **Ligo**, we believe that music has the power to connect people in ways that words sometimes cannot. Our goal is to help individuals discover others with similar music tastes, whether it’s through shared love for a popular artist or an obscure gem that only a few people truly appreciate.
 
@@ -25,21 +25,6 @@ Music is a powerful, emotional experience that transcends cultural and language 
 
 Our vision is to create a space where people with similar musical preferences can meet and discover each other. Whether you’re looking to meet someone with the same love for a niche genre or hoping to bond over a forgotten track, **Ligo** aims to be the bridge between people united by the love of music.
 
-## Join Us
-
-We are just getting started, and we’re excited about the future. Whether you're an early adopter of our platform or a collaborator in our community, we welcome you to join us in shaping the future of how music brings people together.
-
-Let’s connect, discover, and make the world a smaller, more musical place with **Ligo**!
-
----
-
-### Get In Touch
-
-For inquiries or to learn more, feel free to reach out to us at [contact@ligo.com](mailto:contact@ligo.com).
-
-Follow us on [Twitter](https://twitter.com/ligo) | [Instagram](https://instagram.com/ligo)
-
----
 
 *Note: Ligo is currently in development, and we're continuously working to improve our platform to better connect you with others.*
 
