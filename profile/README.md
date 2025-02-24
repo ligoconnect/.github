@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Ligo
+# Welcome To Ligo👋
 
 Welcome to **Ligo** — an innovative platform designed to bring people together through the universal language of music.
 
