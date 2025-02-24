@@ -3,7 +3,7 @@
 Welcome to **Ligo** — an innovative platform designed to bring people together through the universal language of music.
 
 
-<img src="https://github.com/user-attachments/assets/bf398926-9b9d-4121-9d94-11f47c8aa52b" width="auto" height="500" />
+<img src="https://github.com/user-attachments/assets/bf398926-9b9d-4121-9d94-11f47c8aa52b" width="1000" height="500" />
 
 ## Our Mission
 
